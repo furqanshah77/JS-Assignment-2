@@ -165,7 +165,7 @@
 
 
 
-// // Question No # (7)
+// // Question No # (8)
 
 // var price1 = 650;
 
@@ -194,7 +194,7 @@
 
 
 
-// // Question No # (7)
+// // Question No # (9)
 
 // var birthYear = +prompt("Enter Your Birth Year");
 
