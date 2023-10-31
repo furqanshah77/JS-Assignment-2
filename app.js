@@ -194,16 +194,16 @@
 
 
 
-// Question No # (9)
+// // Question No # (9)
 
-var birthYear = +prompt("Enter Your Birth Year");
+// var birthYear = +prompt("Enter Your Birth Year");
 
-var date = new Date();
+// var date = new Date();
 
-var year = date.getFullYear();
+// var year = date.getFullYear();
 
-var age = year - birthYear ; 
+// var age = year - birthYear ; 
 
-document.write("Your Birth Year Is" + " " + birthYear + "<br>");
+// document.write("Your Birth Year Is" + " " + birthYear + "<br>");
 
-document.write("Your Age is " + " "+ age + "<br>" );
+// document.write("Your Age is " + " "+ age + "<br>" );
